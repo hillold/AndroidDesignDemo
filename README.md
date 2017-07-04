@@ -1,5 +1,7 @@
 # AndroidDesignDemo
-A Demo of Android Design support library, CardView and RecyclerView
+A Demo of Android Design support library, CardView and RecyclerView.
+
+This demo is inspired from the Google Code Lab: https://codelabs.developers.google.com/codelabs/material-design-style/#0
 
 # Screenshots
 List view:
@@ -20,5 +22,3 @@ Card:
 Details View:
 
 ![Details](https://github.com/hilloldebnath/AndroidDesignDemo/blob/master/screenshots/detail2.png?raw=true "Details")
-
-This demo is inspired from the Google Code Lab: https://codelabs.developers.google.com/codelabs/material-design-style/#0
