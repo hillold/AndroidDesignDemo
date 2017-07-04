@@ -19,6 +19,6 @@ Card:
 
 Details View:
 
-![Details](https://github.com/hilloldebnath/AndroidDesignDemo/blob/master/screenshots/details.png?raw=true "Details")
+![Details](https://github.com/hilloldebnath/AndroidDesignDemo/blob/master/screenshots/detail2.png?raw=true "Details")
 
 This demo is inspired from the Google Code Lab: https://codelabs.developers.google.com/codelabs/material-design-style/#0
